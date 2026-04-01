@@ -75,5 +75,6 @@ title('linear convolution');
 
 ## RESULT:
 
-![WhatsApp Image 2026-03-28 at 11 26 56 AM (2)](https://github.com/user-attachments/assets/39750aeb-54c8-45ed-bc4b-f0539e35c8b2)
 
+
+![cf9e5b34-70da-4e75-a225-333482847137](https://github.com/user-attachments/assets/42a26c5b-5326-4fb2-851f-f109333190cc)
